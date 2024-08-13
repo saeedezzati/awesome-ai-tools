@@ -95,6 +95,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ### ChatGPT extensions
 
+- [Superpower ChatGPT](https://spchatgpt.com) - ChatGPT with Folders, Search, Enhanced GPT Store, Image Gallery, Voice GPT, Export, Custom
+    Prompts, Prompt Chains, Hidden Models, and more.
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
